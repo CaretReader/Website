@@ -52,4 +52,4 @@ Caret Reader does not host any content, nor is Caret Reader responsible for any 
 {% end %}
 
 #### Is source X down?
-Check the actual source's website first. If the website loads but Caret Reader doesn't, join the Caret Reader [Discord](https://discord.com) server for help.
+Check the actual source's website first.
