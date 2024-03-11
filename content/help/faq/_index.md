@@ -26,8 +26,8 @@ iCloud Sync is still somewhat buggy at the moment and it's hit or miss if the sy
 Enable badges by navigating to Settings and check the **Unread Chapter Badges** section under the Library section.
 
 ### Browse
-#### Why can't I see some sources?
-- By default, only multi-language sources and sources in your [Preferred Languages list](https://osxdaily.com/2021/07/01/set-preferred-language-change-region-iphone-ipad/#:~:text=Head%20over%20to%20%E2%80%9CSettings%E2%80%9D%20from,default%20language%20for%20your%20iPhone.) are shown. Enable more languages by navigating to Browse, selecting the globe icon on the top right, and select the languages you want.
+#### Why can't I see some profiles?
+- By default, only multi-language profiles and profiles in your [Preferred Languages list](https://osxdaily.com/2021/07/01/set-preferred-language-change-region-iphone-ipad/#:~:text=Head%20over%20to%20%E2%80%9CSettings%E2%80%9D%20from,default%20language%20for%20your%20iPhone.) are shown. Enable more languages by navigating to Browse, selecting the globe icon on the top right, and select the languages you want.
 
 ### Reader
 #### Why aren't my chapters being marked as read?
@@ -52,4 +52,4 @@ Caret Reader does not host any content, nor is Caret Reader responsible for any 
 {% end %}
 
 #### Is source X down?
-Check the actual source's website first.
+Please check the actual source's website.
