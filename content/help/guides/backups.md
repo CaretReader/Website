@@ -9,7 +9,7 @@ Caret Reader backups allow you to transfer your Caret Reader data accross device
 ## Backing up your data
 
 ### Creating a backup
-To create a backup, go to Settings → Backups and press the <img src="https://raw.githubusercontent.com/cyanzhong/sf-symbols-online/master/glyphs/plus.png" alt="plus" height="15" width="15"> icon on the top right. You should see a new backup entry titled "Backup \<current date\>".
+To create a backup, go to Settings → Backups and press the <img src="https://raw.githubusercontent.com/andrewtavis/sf-symbols-online/master/glyphs/plus.png" alt="plus" height="15" width="15"> icon on the top right. You should see a new backup entry titled "Backup \<current date\>".
 
 ### Exporting a backup
 Press and hold on the backup entry you want to export, then select Export → Save to Files and choose where you want to save the backup.
