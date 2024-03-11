@@ -7,10 +7,10 @@ a:not(.no-external-icon)[target=_blank]::after {
 }
 
 a.nav-link[target=_blank]::after {
-    filter: invert(31%) sepia(47%) saturate(3068%) hue-rotate(327deg) brightness(102%) contrast(101%);
+    filter: invert(44%) sepia(98%) saturate(1492%) hue-rotate(177deg) brightness(98%) contrast(97%);
     left: 3px;
 }
 
 a:not(.nav-link)[target=_blank]::after {
-    filter: invert(73%) sepia(8%) saturate(0%) hue-rotate(201deg) brightness(91%) contrast(93%)
+    filter: invert(73%) sepia(8%) saturate(0%) hue-rotate(201deg) brightness(91%) contrast(93%);
 }
