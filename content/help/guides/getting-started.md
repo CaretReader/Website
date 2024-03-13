@@ -7,7 +7,7 @@ weight = 1
 
 ## Installation
 
-Caret Reader can be installed in the [App Store](https://apps.apple.com/app/caret-reader/id6478599490).
+Caret Reader can be installed in the [App Store](https://apps.apple.com/app/apple-store/id6478599490?pt=126939243&ct=official-website&mt=8).
 
 ---
 
