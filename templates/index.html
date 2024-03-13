@@ -8,8 +8,8 @@
 
 		<title>{% block title %}{{ config.title }}{% endblock title %}</title>
 
-		<meta name="description" content="Caret Reader - Free and open source manga reader for iOS">
-		<meta name="keywords" content="Caret Reader, iOS app, Manga, Reading, Download">
+		<meta name="description" content="Caret Reader - A manga reading application for iOS and iPadOS">
+		<meta name="keywords" content="Caret Reader, Manga, Comics, iOS App, Reading, Download">
 		<meta name="theme-color" content="#109CF6">
 
 		<link rel="icon" type="image/png" sizes="32x32" href="{{ get_url(path="images/favicon-32x32.png") | safe }}">
@@ -34,7 +34,7 @@
 							<span class="line"></span>
 							<span class="line"></span>
 						</div>
-						<a href="/" class="title"><img class="icon" width="24" height="24" src="/images/caret.svg"></a>
+						<a href="/" class="title"><img class="icon" width="31" height="31" src="/images/caret.svg"></a>
 						{% if not home %}
 						<a href="/" class="title bold mobile">Caret Reader</a>
 						{% endif %}
@@ -66,7 +66,7 @@
 						<header class="header">
 							{% block header_content %}
 								<div class="title">
-									<img class="icon" width="91.2" height="91.2" src="/images/caret.svg">
+									<img class="icon" width="150" height="150" src="/images/caret.svg">
 									<span>Caret Reader</span>
 								</div>
 								<div class="buttons">
