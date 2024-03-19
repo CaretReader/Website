@@ -42,7 +42,7 @@ Open the Settings app → Caret → Languages and select your language. The app 
 If your language isn't in the list, or the translations aren't good enough, consider helping translate the app on [Crowdin](https://crowdin.com/project/caret).
 
 ---
-
+<!--
 ## Sources
 ### General
 #### What are some recommended sources? Which source is the best? Where do I read manga X?
@@ -54,3 +54,4 @@ Caret Reader does not host any content, nor is Caret Reader responsible for any 
 
 #### Is source X down?
 Please check the actual source's website.
+-->
