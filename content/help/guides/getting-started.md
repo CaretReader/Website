@@ -17,7 +17,7 @@ Once Caret Reader has been installed, you will need to use a profile in order to
 
 Profiles are distributed in .aix packages that can be installed by opening them inside Caret Reader. Alternatively, Profile lists can be added in the settings page which allow installation directly from the Browse tab.
 
-To find public profile lists, we recommend checking the [Telegram Channel](https://t.me/CaretReader).
+<!-- To find public profile lists, we recommend checking the [Telegram Channel](https://t.me/CaretReader). -->
 
 ---
 
