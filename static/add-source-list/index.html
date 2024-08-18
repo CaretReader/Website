@@ -37,11 +37,19 @@
 			</main>
 		</div>
 
-		<script>
-			let url = new URLSearchParams(window.location.search).get("url");
-			if (url) {
-				window.location = `caret://addSourceList?url=${url}`;
-			}
-		</script>
+	<script>
+	    let params = new URLSearchParams(window.location.search);
+	    let url = params.get("url");
+	    let name = params.get("name");
+	    
+	    if (url) {
+	        let newUrl = `caret://addSourceList?url=${url}`;
+	        if (name) {
+	            newUrl += `&name=${encodeURIComponent(name)}`;
+	        }
+	        window.location = newUrl;
+	    }
+	</script>
+
 	</body>
 </html>
