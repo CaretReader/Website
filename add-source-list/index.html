@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+		<title>Caret Reader | Add Source List</title>
+
+		<meta name="description" content="Caret Reader - A manga reading application for iOS and iPadOS">
+		<meta name="keywords" content="Caret Reader, Manga, Comics, iOS App, Reading, Download">
+		<meta name="theme-color" content="#109CF6">
+
+		<link rel="stylesheet" href="../css/global.css">
+		<link rel="stylesheet" href="../css/page.css">
+    </head>
+	<body>
+
+		<div class="root no-sidebar">
+			<header class="navbar border">
+				<div class="left">
+					<a href="/" class="title">Caret Reader</a>
+					<!--a href="/" class="title bold mobile">Caret Reader</a-->
+				</div>
+				<div class="links">
+					<a href="/" class="nav-link">Home</a>
+					<a href="/help" class="nav-link">Help</a>
+					<a href="https://github.com/CaretReader/CaretApp" target="_BLANK" class="nav-link">GitHub</a>
+				</div>
+			</header>
+
+			<main class="page">
+				<div class="doc">
+					<p>Redirecting to Caret Reader...</p>
+				</div>
+			</main>
+		</div>
+
+	<script>
+	    let params = new URLSearchParams(window.location.search);
+	    let url = params.get("url");
+	    let name = params.get("name");
+	    
+	    if (url) {
+	        let newUrl = `caret://addSourceList?url=${url}`;
+	        if (name) {
+	            newUrl += `&name=${encodeURIComponent(name)}`;
+	        }
+	        window.location = newUrl;
+	    }
+	</script>
+
+	</body>
+</html>
